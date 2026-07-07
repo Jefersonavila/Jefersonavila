@@ -20,7 +20,6 @@ Soy un estudiante de **Ingeniería de Sistemas** enfocado en el desarrollo full-
 
 - ⚙️ **Enfoque Actual:** Arquitectura de software, seguridad en portales financieros y optimización de bases de datos relacionales.
 - 🛠️ **Filosofía de Trabajo:** Desarrollar sistemas modulares donde cada componente funcione en perfecta sincronía, evitando estructuras aisladas.
-- 🚀 **Proyectos Clave:** Portales bancarios simulados con firewalls lógicos, sistemas automatizados de facturación (SGAF) y gestión de datos en entornos locales/servidores.
 
 ---
 
@@ -59,13 +58,6 @@ Soy un estudiante de **Ingeniería de Sistemas** enfocado en el desarrollo full-
 
 ---
 
-## 📈 Estadísticas de Control
-
-<div align="center">
-
-| 📊 ACTIVIDAD GENERAL | ⚡ LENGUAJES MÁS USADOS |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=jefersonavila&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonavila&layout=compact&theme=tokyonight&hide_border=true" height="180px" /> |
 
 ### 🛠️ Estado de Contribuciones
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefersonavila&theme=tokyonight&hide_border=true" width="100%" />

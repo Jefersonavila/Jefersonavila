@@ -56,17 +56,4 @@ Soy un estudiante de **Ingeniería de Sistemas** enfocado en el desarrollo full-
 </p>
 </details>
 
----
 
-
-### 🛠️ Estado de Contribuciones
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jefersonavila&theme=tokyonight&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-science.svg" height="30px"/>
-  <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" height="30px"/>
-</div>
